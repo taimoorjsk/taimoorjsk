@@ -31,7 +31,8 @@ I’m a Computer Science student and software developer passionate about buildin
 
 ---
 ### 🌟 My GitHub Repositories
-
+* 📂 **[TypeMaster](https://github.com/taimoorjsk/TypeMaster)** – A full-stack typing speed test application featuring real-time WPM tracking, secure user authentication, and a competitive global leaderboard built with PHP, MySQL, and JavaScript.
+* 📂 **[concurrent-image-pipeline](https://github.com/taimoorjsk/concurrent-image-pipeline)** – A multi-process C++ image processing system that demonstrates OS-level parallelism utilizing POSIX Shared Memory, Semaphores, and strict producer-consumer synchronization[cite: 8].
 * 📂 **[university-timetable-resolver](https://github.com/taimoorjsk/university-timetable-resolver.git)** – An automated C++ scheduling engine that resolves timetable conflicts using a hybrid architecture of Graphs, AVL Trees, Hash Tables, and a Greedy Graph Coloring algorithm.
 
 ---
