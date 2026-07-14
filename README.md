@@ -1,23 +1,23 @@
-# Hi there, I'm M. Taimoor Jahangir! 
+# Hi there, I'm M. Taimoor Jahangir! 👋
 
-I’m a Computer Science student and software developer passionate about building robust backend systems, full-stack web applications, and solving complex algorithmic problems. While pursuing my Computer Science degree at COMSATS University, Islamabad, I work across Spring Boot, the MERN stack, advanced database optimizations, and core object-oriented programming, bridging the gap between theoretical computer science and real-world software solutions.
+I’m a Computer Science student and software developer passionate about building robust backend systems, full-stack web applications, and solving complex algorithmic problems. I love taking theoretical computer science concepts and translating them into clean, highly optimized real-world software.
 
 ---
-###  About Me
+### 🚀 About Me
 
-**🎓 Computer Science Student with strong foundations in:**
+**🎓 Computer Science Foundations:**
 * Data Structures & Algorithms (C++, Java)
 * Object-Oriented Programming (Java, C++, Python)
-* Advanced Database Systems (HTML, CSS, PHP, SQL & MongoDB)
+* Advanced Database Systems (SQL & MongoDB)
 * Software Engineering & Information Security
 
-**🌐 Full-Stack & Backend Development**
+**🌐 Full-Stack & Backend Development:**
 * Spring Boot, PHP, and modern JavaScript frameworks (MERN)
 * Database optimization, aggregation pipelines, and compound indexing
 * Building secure backend tracking systems and REST APIs
 * Git, GitHub, and terminal-based workflows
 
-**🧩 Problem Solving & Architecture**
+**🧩 Problem Solving & Architecture:**
 * Modeling Constraint Satisfaction Problems (CSPs)
 * Implementing custom graphs, AVL trees, and greedy algorithms
 * Reducing query latency and optimizing resource allocation
@@ -27,13 +27,13 @@ I’m a Computer Science student and software developer passionate about buildin
 * Full-Stack Web Technologies
 * Game Development
 
-🤝 I enjoy taking on leadership roles (serving as Class Representative), solving complex resource conflicts, and collaborating to build scalable solutions. When I am away from the keyboard, I am usually learning to skateboard, watching Vinland Saga, or trying to beat the next boss in Cuphead.
-
+🤝 I enjoy taking on leadership roles (like serving as Class Representative), solving resource conflicts, and collaborating to build scalable solutions. When I am away from the keyboard, I am usually learning to skateboard, watching Vinland Saga, or trying to beat the next boss in Cuphead.
 
 ---
 ### 🌟 My GitHub Repositories
 
 * 📂 **[university-timetable-resolver](https://github.com/taimoorjsk/university-timetable-resolver.git)** – An automated C++ scheduling engine that resolves timetable conflicts using a hybrid architecture of Graphs, AVL Trees, Hash Tables, and a Greedy Graph Coloring algorithm.
+
 ---
 ### 💻 Tech Stack
 
@@ -53,7 +53,7 @@ I’m a Computer Science student and software developer passionate about buildin
 ### 📧 Connect With Me
 
 * 💼 **LinkedIn:** [M. Taimoor Jahangir](https://www.linkedin.com/in/m-taimoor-jahangir-010ba5303/)
-* 🌐 **GitHub:** [@taimoor-jahangir](https://github.com/taimoorjsk)
+* 🌐 **GitHub:** [@taimoorjsk](https://github.com/taimoorjsk)
 * 📧 **Email:** taimoorjsk@gmail.com
 
-Building for the present, optimizing for the future.
+✨ Building for the present, optimizing for the future.
