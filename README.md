@@ -33,7 +33,7 @@ I’m a Computer Science student and software developer passionate about buildin
 ---
 ### 🌟 My GitHub Repositories
 
-* 📂 **university-timetable-resolver** – An automated C++ scheduling engine that resolves timetable conflicts using a hybrid architecture of Graphs, AVL Trees, Hash Tables, and a Greedy Graph Coloring algorithm.
+* 📂 **[university-timetable-resolver](https://github.com/taimoorjsk/university-timetable-resolver.git)** – An automated C++ scheduling engine that resolves timetable conflicts using a hybrid architecture of Graphs, AVL Trees, Hash Tables, and a Greedy Graph Coloring algorithm.
 ---
 ### 💻 Tech Stack
 
