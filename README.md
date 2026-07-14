@@ -1,7 +1,8 @@
-# Hi there, I'm M. Taimoor Jahangir! 👋
+# Hi there, I'm M. Taimoor Jahangir! 
 
 I’m a Computer Science student and software developer passionate about building robust backend systems, full-stack web applications, and solving complex algorithmic problems. While pursuing my Computer Science degree at COMSATS University, Islamabad, I work across Spring Boot, the MERN stack, advanced database optimizations, and core object-oriented programming, bridging the gap between theoretical computer science and real-world software solutions.
 
+---
 ###  About Me
 
 **🎓 Computer Science Student with strong foundations in:**
@@ -28,10 +29,12 @@ I’m a Computer Science student and software developer passionate about buildin
 
 🤝 I enjoy taking on leadership roles (serving as Class Representative), solving complex resource conflicts, and collaborating to build scalable solutions. When I am away from the keyboard, I am usually learning to skateboard, watching Vinland Saga, or trying to beat the next boss in Cuphead.
 
+
+---
 ### 🌟 My GitHub Repositories
 
 * 📂 **university-timetable-resolver** – An automated C++ scheduling engine that resolves timetable conflicts using a hybrid architecture of Graphs, AVL Trees, Hash Tables, and a Greedy Graph Coloring algorithm.
-
+---
 ### 💻 Tech Stack
 
 **Languages:**  
@@ -46,10 +49,11 @@ I’m a Computer Science student and software developer passionate about buildin
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 ### 📧 Connect With Me
 
 * 💼 **LinkedIn:** [M. Taimoor Jahangir](https://www.linkedin.com/in/m-taimoor-jahangir-010ba5303/)
 * 🌐 **GitHub:** [@taimoor-jahangir](https://github.com/taimoorjsk)
 * 📧 **Email:** taimoorjsk@gmail.com
 
-✨ Building for the present, optimizing for the future.
+Building for the present, optimizing for the future.
