@@ -5,29 +5,30 @@ I’m a Computer Science student and software developer passionate about buildin
 ---
 ###  About Me
 
-** Computer Science Foundations:**
+**Computer Science Foundations:**
 * Data Structures & Algorithms (C++, Java)
 * Object-Oriented Programming (Java, C++, Python)
 * Advanced Database Systems (SQL & MongoDB)
 * Software Engineering & Information Security
 
-** Full-Stack & Backend Development:**
+**Full-Stack & Backend Development:**
 * Spring Boot, PHP, and modern JavaScript frameworks (MERN)
 * Database optimization, aggregation pipelines, and compound indexing
 * Building secure backend tracking systems and REST APIs
 * Git, GitHub, and terminal-based workflows
 
-** Problem Solving & Architecture:**
+**Problem Solving & Architecture:**
 * Modeling Constraint Satisfaction Problems (CSPs)
 * Implementing custom graphs, AVL trees, and greedy algorithms
 * Reducing query latency and optimizing resource allocation
 
-** Currently interested in:**
+**Currently interested in:**
 * Backend Engineering & Distributed Cloud Apps
 * Full-Stack Web Technologies
 * Game Development
-
- I enjoy taking on leadership roles (like serving as Class Representative), solving resource conflicts, and collaborating to build scalable solutions. When I am away from the keyboard, I am usually learning to skateboard, watching Vinland Saga, or trying to beat the next boss in Cuphead.
+---
+## LeaderShip
+I enjoy taking on leadership roles (like serving as Class Representative), solving resource conflicts, and collaborating to build scalable solutions. When I am away from the keyboard, I am usually learning to skateboard, watching Vinland Saga, or trying to beat the next boss in Cuphead.
 
 ---
 ###  My GitHub Repositories
