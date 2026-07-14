@@ -1,36 +1,36 @@
-# Hi there, I'm M. Taimoor Jahangir! 👋
+# Hi there, I'm M. Taimoor Jahangir! 
 
 I’m a Computer Science student and software developer passionate about building robust backend systems, full-stack web applications, and solving complex algorithmic problems. I love taking theoretical computer science concepts and translating them into clean, highly optimized real-world software.
 
 ---
-### 🚀 About Me
+###  About Me
 
-**🎓 Computer Science Foundations:**
+** Computer Science Foundations:**
 * Data Structures & Algorithms (C++, Java)
 * Object-Oriented Programming (Java, C++, Python)
 * Advanced Database Systems (SQL & MongoDB)
 * Software Engineering & Information Security
 
-**🌐 Full-Stack & Backend Development:**
+** Full-Stack & Backend Development:**
 * Spring Boot, PHP, and modern JavaScript frameworks (MERN)
 * Database optimization, aggregation pipelines, and compound indexing
 * Building secure backend tracking systems and REST APIs
 * Git, GitHub, and terminal-based workflows
 
-**🧩 Problem Solving & Architecture:**
+** Problem Solving & Architecture:**
 * Modeling Constraint Satisfaction Problems (CSPs)
 * Implementing custom graphs, AVL trees, and greedy algorithms
 * Reducing query latency and optimizing resource allocation
 
-**🧠 Currently interested in:**
+** Currently interested in:**
 * Backend Engineering & Distributed Cloud Apps
 * Full-Stack Web Technologies
 * Game Development
 
-🤝 I enjoy taking on leadership roles (like serving as Class Representative), solving resource conflicts, and collaborating to build scalable solutions. When I am away from the keyboard, I am usually learning to skateboard, watching Vinland Saga, or trying to beat the next boss in Cuphead.
+ I enjoy taking on leadership roles (like serving as Class Representative), solving resource conflicts, and collaborating to build scalable solutions. When I am away from the keyboard, I am usually learning to skateboard, watching Vinland Saga, or trying to beat the next boss in Cuphead.
 
 ---
-### 🌟 My GitHub Repositories
+###  My GitHub Repositories
 * 📂 **[TypeMaster](https://github.com/taimoorjsk/TypeMaster)** – A full-stack typing speed test application featuring real-time WPM tracking, secure user authentication, and a competitive global leaderboard built with PHP, MySQL, and JavaScript.
 * 📂 **[concurrent-image-pipeline](https://github.com/taimoorjsk/concurrent-image-pipeline)** – A multi-process C++ image processing system that demonstrates OS-level parallelism utilizing POSIX Shared Memory, Semaphores, and strict producer-consumer synchronization[cite: 8].
 * 📂 **[university-timetable-resolver](https://github.com/taimoorjsk/university-timetable-resolver.git)** – An automated C++ scheduling engine that resolves timetable conflicts using a hybrid architecture of Graphs, AVL Trees, Hash Tables, and a Greedy Graph Coloring algorithm.
@@ -51,10 +51,10 @@ I’m a Computer Science student and software developer passionate about buildin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-### 📧 Connect With Me
+###  Connect With Me
 
-* 💼 **LinkedIn:** [M. Taimoor Jahangir](https://www.linkedin.com/in/m-taimoor-jahangir-010ba5303/)
-* 🌐 **GitHub:** [@taimoorjsk](https://github.com/taimoorjsk)
-* 📧 **Email:** taimoorjsk@gmail.com
+*  **LinkedIn:** [M. Taimoor Jahangir](https://www.linkedin.com/in/m-taimoor-jahangir-010ba5303/)
+*  **GitHub:** [@taimoorjsk](https://github.com/taimoorjsk)
+*  **Email:** taimoorjsk@gmail.com
 
-✨ Building for the present, optimizing for the future.
+Building for the present, optimizing for the future.
